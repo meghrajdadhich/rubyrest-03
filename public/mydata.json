@@ -1,0 +1,20 @@
+{
+    "status":"SUCCESS","message":"Loaded questions","data":
+    [
+        {
+            "id":5,"pri":105,"quiz":"a00005","teamingStages":"b00005","appearsDay":205,"frequency":305,"qType":"c00005","role":"d00005","required":"e00005","conditions":"f00005","mapping":"g00005","created_at":"2019-11-04T05:50:26.581Z","updated_at":"2019-11-04T05:50:26.581Z"
+            },
+            {
+                "id":4,"pri":102,"quiz":"a00002","teamingStages":"b00002","appearsDay":202,"frequency":302,"qType":"c00002","role":"d00002","required":"e00002","conditions":"f00002","mapping":"g00000","created_at":"2019-11-03T13:37:41.992Z","updated_at":"2019-11-03T13:37:41.992Z"
+                },
+                {
+                    "id":3,"pri":101,"quiz":"a00001","teamingStages":"0000","appearsDay":201,"frequency":301,"qType":"0000","role":"0000","required":"0000","conditions":"0000","mapping":"0000","created_at":"2019-11-03T13:35:59.521Z","updated_at":"2019-11-03T13:35:59.521Z"
+                    },
+                    {
+                        "id":2,"pri":null,"quiz":null,"teamingStages":null,"appearsDay":null,"frequency":null,"qType":null,"role":null,"required":null,"conditions":null,"mapping":null,"created_at":"2019-11-03T13:30:49.730Z","updated_at":"2019-11-03T13:30:49.730Z"
+                        },
+                        {
+                            "id":1,"pri":null,"quiz":null,"teamingStages":null,"appearsDay":null,"frequency":null,"qType":null,"role":null,"required":null,"conditions":null,"mapping":null,"created_at":"2019-11-03T13:30:14.583Z","updated_at":"2019-11-03T13:30:14.583Z"
+                            }
+                            ]
+                        }
